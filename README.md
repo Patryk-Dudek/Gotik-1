@@ -1,2 +1,2 @@
 # Gotik
-Pygame self=learning project
+Pygame self-learning project
