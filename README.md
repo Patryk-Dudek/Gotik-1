@@ -1,2 +1,2 @@
-# Gotik-1
-pierwszy platformowy dla dzieci
+# Gotik
+Pygame self=learning project
